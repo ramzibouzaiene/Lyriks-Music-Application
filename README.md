@@ -1,5 +1,5 @@
 
-Lyriks it's music application made with React, Redux and TailwindCSS with the help of Rapid API and shazam core Api.
+Lyriks it's music application made with React, Redux and TailwindCSS with the help of Rapid API and shazam core Api
 You can discover your favorite artists and listen to your favorite songs by searching on it in the application.<br/>
 Click <a href="https://lyriks-music-app-rmz.netlify.app/" target="_blanck">HERE</a> to see the demo app
 
